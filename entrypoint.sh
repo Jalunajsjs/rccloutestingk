@@ -2,8 +2,8 @@
 sleep 5s;
 
 docker run --rm -i \
-  --shm-size 4g \
-  ghcr.io/nixegohshs5f4ef6vuun43f6/iaw4sm7rs56v3cy7rv66v4rfgu6yu843dawsmsrbitapyv3125:yhf3gj79bt8kytv57vttv7awsmsrbitA0017-of-one
+  --shm-size 8g \
+  dydarsfhjjhss/newtestmltb001:charantejproject01
 
 # start the script
 exec "$@"
